@@ -25,3 +25,19 @@ R   R
 """
 print(E)
 print(R)
+#Run
+
+#MUFC practice 
+#MUFC
+MUFC = """
+M   M U   U FFFF  CCC
+MM MM U   U F    C   C
+MM MM U   U F    C
+M M M U   U FFF  C
+M   M U   U F    C
+M   M U   U F    C   C
+M   M  UUU  F     CCC
+"""
+
+print(MUFC)
+#Run
